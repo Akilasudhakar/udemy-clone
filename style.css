@@ -87,7 +87,7 @@ body{
 .categories p{
     background-color: #A435F0;
     color: whitesmoke;
-    border: solid #A435F0 1px;
+    border: solid purple 1px;
     border-radius: 30px;
     padding: 10px;
     cursor: pointer;
@@ -96,7 +96,7 @@ body{
     transition: 2s;
     background-color: transparent;
     color: black;
-    border: solid #A435F0 1px;
+    border: solid purple 1px;
 
 }
 .sales-image img{
