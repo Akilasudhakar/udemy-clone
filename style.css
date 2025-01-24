@@ -228,5 +228,8 @@ body{
     .navbar__s4{
         display: block;
     }
+    .sales-img__offer{
+        display: none;
+    }
 
 }
